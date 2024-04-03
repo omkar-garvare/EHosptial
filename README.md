@@ -8,8 +8,11 @@ Technologies Used:
 Frontend: HTML, CSS, Bootstrap, JavaScript.
 Backend: MySQL database.
 Frontend-Backend Connection: PHP.
-![Screenshot 2024-04-01 230937](https://github.com/omkar-garvare/EHosptial/assets/127541450/43bc4ba0-76d2-47f8-a470-4f7fd35f2d00)
-![Screenshot 2024-02-07 150144](https://github.com/omkar-garvare/EHosptial/assets/127541450/b2631c91-97e5-4431-9ea7-1a9eb74940f7)
-![Screenshot 2024-02-07 145118](https://github.com/omkar-garvare/EHosptial/assets/127541450/13d11954-8b2a-49fe-ac3b-b770ca2b51db)
-![Screenshot 2024-04-03 161607](https://github.com/omkar-garvare/EHosptial/assets/127541450/08ae1db8-cea2-46fc-937a-ece551289547)
+![Screenshot 2024-04-03 162534](https://github.com/omkar-garvare/EHosptial/assets/127541450/12ca30a3-72d0-467a-889b-726245e0783c)
+![Screenshot 2024-04-03 162534](https://github.com/omkar-garvare/EHosptial/assets/127541450/80e5ac66-a3d6-4981-9874-f203d8776141)
+![image](https://github.com/omkar-garvare/EHosptial/assets/127541450/9d0f79b8-0623-44dd-82cf-56e752275424)
+![Screenshot 2024-04-03 162410](https://github.com/omkar-garvare/EHosptial/assets/127541450/adc5df84-e086-4020-b8e5-db12e294dd31)
+
+
+
 
